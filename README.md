@@ -1,2 +1,5 @@
-# AI-Railway-Track-Monitoring-Robot
-AI-Powered Railway Track and Fastening Health Monitoring Robot using ESP32, GPS and GSM/4G Communication.
+# Project Documentation
+
+This folder contains project proposals, literature surveys,
+reports, presentations, review documents, and technical documentation
+for the AI-Powered Railway Track and Fastening Health Monitoring Robot.
